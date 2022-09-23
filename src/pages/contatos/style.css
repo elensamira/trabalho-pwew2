@@ -1,0 +1,23 @@
+.formu{
+width: 100px;
+height: 20px;
+margin: 400px;
+bottom: 360px;
+left: 60px;
+position: relative;
+align-items: center;
+border-radius: 20px;
+
+}
+
+input{
+    border-radius: 20px;
+ height: 30px;
+      
+}
+
+button{
+    border-radius: 20px;
+    height: 30px;
+    
+}

@@ -1,0 +1,40 @@
+header{ 
+    width: 100vw;
+    height: 80px;
+    background:linear-gradient(120deg,#d6a8d6, #883c7e);
+    color: #f8f9fa;
+    display: flex;
+    position: static;
+    
+}
+.menu ul li{
+    margin-left: 90%;
+    display: inline;
+}
+
+body{
+    height: 100vh;
+    background-size: 10vw;
+    background-image: url(../../../public/img/Pulseiras\ Fashion.png);
+    background-color: #f3d1f3;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    
+
+
+    
+}
+img{
+    height: 100vh;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    color: #070707;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
